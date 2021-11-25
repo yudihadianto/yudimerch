@@ -25,6 +25,6 @@ Every provider defines the features that it supports under `framework/{provider}
 The following features can be enabled or disabled. This means that the UI will remove all code related to the feature.
 For example: Turning `cart` off will disable Cart capabilities.
 
-#### Disclaimer
+# DISCLAIMER
 
 !! Proses checkout bisa saja error, jika trafic terlalu padat atau banyak user yang melakukan checkout, dikarenakan API untuk pengecekan ongkir ada limitnya
